@@ -11,3 +11,7 @@ The 'Boots & Spurs' font file is located in your fonts folder for this repo. The
 Add the Boots & Spurs font to the appropriate headings. Hint: You will need the @font-face rule.
 
 Add the Roboto font to the paragraph text and wherever else it is used.
+
+### Video
+
+Watch [the video on Vimeo](https://vimeo.com/manage/478525431/general)
