@@ -1,6 +1,6 @@
 # HTML and CSS - Module 1
 
-## Lesson Task 4 Question
+## Task 4
 
 In this lesson task we're going to be adding fonts to our pages.
 
