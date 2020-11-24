@@ -16,4 +16,4 @@ Add the Roboto font to the paragraph text and wherever else it is used.
 
 This video shows you how to complete the lesson task 1.4. Only watch it after attempting the lesson task by yourself.
 
-[View on Vimeo](https://vimeo.com/manage/478525431/general)
+[View on Vimeo](https://vimeo.com/478525431/7b4af43d3c)
