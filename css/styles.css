@@ -29,9 +29,9 @@ header a {
 footer {
   text-align: center;
 }
-/* Home page */
-.welcome
 
-{
+
+/* Home page */
+.welcome {
 background-image: url("../images/home-header.jpg");
 }
